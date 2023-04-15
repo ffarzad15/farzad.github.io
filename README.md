@@ -129,6 +129,6 @@
 <br>
 <td align="right"><ul><i><b><h2>سازنده : farzad ghodratii</h2></i></b></ul></td>
 <body bgcolor="#f7d0d0">
-  <img src="sss.jpg" alt="saman.jpg">
+  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/64/f0bb158e4daa4ddc956ad42ff65f4bf8/sss.jpg"/>
 </body>
 </html>
