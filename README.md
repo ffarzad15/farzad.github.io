@@ -129,6 +129,6 @@
 <br>
 <td align="right"><ul><i><b><h2>سازنده : farzad ghodratii</h2></i></b></ul></td>
 <body bgcolor="#f7d0d0">
-   
+  <img src="sss.jpg" alt="saman.jpg">
 </body>
 </html>
