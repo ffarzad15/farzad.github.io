@@ -202,9 +202,16 @@
 <br>
 <br>
 <center>
+<<<<<<< HEAD
 <br>
 <br>
 <a href="https://www.uplooder.net//files/e2939dc0fea00a52652248598f19134c/Shooti-Torki-(ahangchin.ir).mp3.html" target="_blank">Shooti-Torki-(ahangchin.ir).mp3</a>
 <audio controls>
 <source src="ppp.mp3"></audio>
 </body>
+=======
+  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/27/f71272f6782260c76bb38df789bb0ffa/jj.jpg" width="780px"/>
+</center>
+</body>
+</html>
+>>>>>>> parent of 9bd1542 (h)
