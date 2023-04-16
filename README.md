@@ -214,7 +214,7 @@
 <br>
 <br>
 <hr>
-<video controls>
+<video controls width="300px">
 <source src="ggg.mp4"></video>
 </body>
 </html>
