@@ -1,16 +1,28 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Page school</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel="stylesheet" href="style.css">
-    <script src='main.js'></script>
-</head>
- <center>
-  <h1><b><font color="#570491">با عرض سلام و خسته نباشید خدمت شما دانش اموزان پایه نهم</font></h1></b>
- </center>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>funny</title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <div class="farsi-text">
+  </head>
+  <body>
+  <center>
+<h1>سلام و درور بر هم وطن گرامی</h1>
+</center>
+<br>
+<br>
+<br>
+<br>
+<center>
+<font><h3> در اینجا سم هایی را مشاهده می کنید</h3></font>
+</center>
+<br>
+<br>
+<br>
+<center>
+  <font><h2>پایین بروید</h2> </font>
+</center></div>
 <br>
 <br>
 <br>
@@ -23,9 +35,6 @@
 <br>
 <br>
 <br>
- <center>
-   <h2><font color="#048c24"> در اینجا بیشتر سم های کلاس نهم وجود دارد</font></h2>
- </center>
 <br>
 <br>
 <br>
@@ -38,26 +47,87 @@
 <br>
 <br>
 <br>
- <center>
-    <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/31/e4695671ca444fb9e299704107572cb4/a.jpg" width="430" height="900"/>
- </center>
 <br>
 <br>
 <br>
 <br>
- <center>
-    <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/38/70d02b5e1c1abb8948c94a07fbc43996/IMG-20230315-090444-429.jpg" width="450" height="760"/>
- </center>
+<br>
+<br>
+<h2><p style="text-align:right">سم های مدی</p></h2>
+<center>
+  <font size="+1">در اینجا مدی قرقی مبینید با کون بزرگش کل سایت گرفته</font>
+  <br>
+  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/77/31418251fe07b7c00573479bfef9b1d4/cc.jpg" width="500"/>
+</center>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <center>
+ <font size="+1">اینجا هم فیس پلشتش که با گوشی من عکس گرفته می بینید</font>
+ <br>
+ <br>
+  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/6/960e5c001d61282423a90e9327ed97c1/dd.jpg"  width="500"/>
+</center>
+<br>
+<br>
+<br>
+<center>
+<font size="+1">اینجام مدیه</font>
+<br>
+<br>
+<img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/84/789a06029545d8f500a4352dda8897d0/ll.jpg" width="500px"/>
+</center>
 <br>
 <br>
 <br>
 <br>
+<center>
+ <font size="+1">بچه گیای مدی </font>
+  <br>
+  <br>
+  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/47/928fe8df360f260b4e577ce0b170f851/mm.jpg" width="500px"/>
+</center>
+<br>
+<br>
+<br>
+<br>
+<center>
+<font size="+1">بقیه عکس هایم خودتان مبینید</font>
+<br>
+<br>
+<img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/93/2accc519fac81c02a24bf5b799e9308c/oo.jpg" width="500px"/>
+</center>
+<br>
+<br>
+<br>
+<br>
+<center>
 
+  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/31/63ddb8cba92f28147f85fb686d13a6a7/kk.jpg" width="500px"/>
+</center>
+<br>
 <br>
 <br>
 <br>
 <center>
-   <h3><font color="#043580"> لذا برای باز کردن فیلم ابتدا روی نوشته (یکی از خوبان کلته) کلیک کنید و فایل را دانلود کنید لذت ببرید </font></h3> 
+  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/68/dfa3735dd8584f133bb0154f55b13bb4/nn.jpg" width="700px"/>
+</center>
+<br>
+<br>
+<center>
+  <a href="https://www.uplooder.net//files/515b450bef1eff7c4004cb290150d990/ab.mp3.html">
+<audio controls loop>
+ <source src="C:\Users\RayaKar32244600\Desktop\fun\ab.mp3"
+ type="audio/mpeg">
+</audio></a>
+</center>
+<br>
+<br>
+<center>
+  <a href="https://www.uplooder.net//files/6e2786a07ceb7b25d38e3ef7cd45e66b/omid.mp4.html" target="_blank">omid.mp4</a>
+</video>
 </center>
 <br>
 <br>
@@ -65,14 +135,11 @@
 <br>
 <br>
 <br>
- <center>
-    <font color="#f50713"><a href="https://www.uplooder.net//files/45c12bf5ed0d1199b2326b3007c93f69/VID-20230315-091630-092.mp4.html" target="_blank">یکی از خوبان کلته</a></font>
- </center>
-
 <br>
 <br>
-<br>
-<br>
+<center>
+  <font size="+3">اگر فیلم باز نشد رویش ضربه بزنید و قسمتی سبز رنگ برایتان نمایش داده میشود و بر روی ان دانلود فایل ضربه بزنید و از فیلمتان لذت ببرید </font>
+</center>
 <br>
 <br>
 <br>
@@ -81,7 +148,38 @@
 <br>
 <br>
 <center>
-    <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/76/1682c387f7ae7d981861a8578dbcb78b/IMG-20230315-090837-749.jpg" width="440" height="600"/>
+  <font size="+3">اینجا هم جوانی های دایی امین مبینید که یکم شیطنت کرده </font>
+</center>
+<br>
+<br>
+<br>
+<br>
+<center>
+  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/49/73a45fab7128bdc34133cd724a67556e/pp.jpg" width="720px"/>
+</center>
+<br>
+<br>
+<br>
+<br>
+<center>
+  <font size="+2">مدیه تاله ی</font>
+</center>
+<br>
+<center>
+  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/48/fe79d770d21b987badaa599afccb269e/rr.jpg" width="660px"/>
+</center>
+<br>
+<br>
+<br>
+<br>
+<center>
+  <font size="+2">امید درحال عکس گرفتن برای زیدش</font>
+</center>
+<br>
+<br>
+<br>
+<center>
+<img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/50/5a07bc0f57fe925922e36c3f225d0c76/ss.jpg" width="650px"/>
 </center>
 <br>
 <br>
@@ -89,46 +187,24 @@
 <br>
 <br>
 <center>
-   <font color="#0c016b" size="+2">یکی از شاگرد ممتازان افتخار مدرسه جناب اقای:سامان ریحانی</font>
+  <audio controls="controls">
+  <source src="qqا.mp3"></audio>
 </center>
+<br>
 <br>
 <br>
 <br>
 <br>
 <center>
-   <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/29/682a55b453ae80417c953bc14c7193dd/s.jpg" width="440" height="700"/>
+  <font size="+3"> اوستا مرتضی ملقب به موتور</font>
 </center>
+<br>
+<br>
 <br>
 <br>
 <br>
 <center>
-   <font size="+2.2">یکی از بچه های الله وردی خان به نام:احمد اسدی ملغب به (اسو چنگ)</font>
+  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/27/f71272f6782260c76bb38df789bb0ffa/jj.jpg" width="780px"/>
 </center>
-<br>
-<br>
-<center>
-   <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/54/1c99c2772343c0ae8dd53f4c02d2222d/IMG-20230117-144940-453.jpg" width="460" height="300"/>
-</center>
-<br>
-<br>
-<br>
-<center>
- <h3><ul> یکی از بسکتبالیست خوب تیم ملی جناب:ذبیح الله نوری</ul></h3>
-</center>
-<br>
-<br>
-<br>
-<center>
-   <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/13/3070fbd045385e059c4ccc5f0e9ccb37/IMG-20230316-091638-149.jpg" width="400" height="600"/>
-</center>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<td align="right"><ul><i><b><h2>سازنده : farzad ghodratii</h2></i></b></ul></td>
-<body bgcolor="#f7d0d0">
-  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/64/f0bb158e4daa4ddc956ad42ff65f4bf8/sss.jpg"/>
 </body>
 </html>
