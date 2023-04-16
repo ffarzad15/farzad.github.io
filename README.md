@@ -204,7 +204,7 @@
 <center>
 <br>
 <br>
-<audio autoplay>
+<audio controls>
 <source src="ppp.mp3"></audio>
 <br>
   <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/27/f71272f6782260c76bb38df789bb0ffa/jj.jpg" width="780px"/>
