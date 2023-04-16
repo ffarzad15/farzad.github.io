@@ -1,11 +1,9 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
     <title>funny</title>
     <link rel="stylesheet" type="text/css" href="/css/style.css">
     <div class="farsi-text">
-  </head>
   <body>
   <center>
 <h1>سلام و درور بر هم وطن گرامی</h1>
@@ -22,7 +20,7 @@
 <br>
 <center>
   <font><h2>پایین بروید</h2> </font>
-</center></div>
+</center>
 <br>
 <br>
 <br>
@@ -204,12 +202,9 @@
 <br>
 <br>
 <center>
-  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/27/f71272f6782260c76bb38df789bb0ffa/jj.jpg" width="780px"/>
-</center>
 <br>
 <br>
 <a href="https://www.uplooder.net//files/e2939dc0fea00a52652248598f19134c/Shooti-Torki-(ahangchin.ir).mp3.html" target="_blank">Shooti-Torki-(ahangchin.ir).mp3</a>
 <audio controls>
 <source src="ppp.mp3"></audio>
 </body>
-</html>
