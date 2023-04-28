@@ -115,6 +115,7 @@
  ipsam distinctio dignissimos.</p>
 <br>
 <br>
+<<<<<<< HEAD
 <br>
 <br>
 <br>
@@ -148,5 +149,10 @@
      <h1>Lorem4</h1>
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi
      quidem vitae, accusamus magnam doloribus voluptatibus odio exercitationem!</p>
+=======
+<td align="right"><ul><i><b><h2>سازنده : farzad ghodratii</h2></i></b></ul></td>
+<body bgcolor="#f7d0d0">
+   
+>>>>>>> parent of 34e1534 (Update README.md)
 </body>
 </html>
