@@ -1,143 +1,50 @@
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>funny</title>
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
-    <div class="farsi-text">
-  <body>
-  <center>
-<h1>سلام و درور بر هم وطن گرامی</h1>
-</center>
-<br>
-<br>
-<br>
-<br>
-<center>
-<font><h3> در اینجا سم هایی را مشاهده می کنید</h3></font>
-</center>
-<br>
-<br>
-<br>
-<center>
-  <font><h2>پایین بروید</h2> </font>
-</center>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h2><p style="text-align:right">سم های مدی</p></h2>
-<center>
-  <font size="+1">در اینجا مدی قرقی مبینید با کون بزرگش کل سایت گرفته</font>
-  <br>
-  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/77/31418251fe07b7c00573479bfef9b1d4/cc.jpg" width="500"/>
-</center>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <center>
- <font size="+1">اینجا هم فیس پلشتش که با گوشی من عکس گرفته می بینید</font>
- <br>
- <br>
-  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/6/960e5c001d61282423a90e9327ed97c1/dd.jpg"  width="500"/>
-</center>
-<br>
-<br>
-<br>
-<center>
-<font size="+1">اینجام مدیه</font>
-<br>
-<br>
-<img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/84/789a06029545d8f500a4352dda8897d0/ll.jpg" width="500px"/>
-</center>
-<br>
-<br>
-<br>
-<br>
-<center>
- <font size="+1">بچه گیای مدی </font>
-  <br>
-  <br>
-  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/47/928fe8df360f260b4e577ce0b170f851/mm.jpg" width="500px"/>
-</center>
-<br>
-<br>
-<br>
-<br>
-<center>
-<font size="+1">بقیه عکس هایم خودتان مبینید</font>
-<br>
-<br>
-<img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/93/2accc519fac81c02a24bf5b799e9308c/oo.jpg" width="500px"/>
-</center>
-<br>
-<br>
-<br>
-<br>
-<center>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>wonderful</title>
+    <link rel="stylesheet" href="style.css">
+    <body style="background-color:rgb(146, 168, 153) ;">
+    </body>
+</head>
+<body>
+    <picture>
+        <source srcset="bb.jpg" media="(max-whdth: 300px) and (orientation: landscape)">
+        <source srcset="go.jpeg" media="(min-whdth: 250px)">
+        <img src="lion.jpeg" alt="">
+    </picture>
+    <br>
+    <br>
+    <hr>
+    <p>ای که در خوابی همه شب تا به روز
+        بهر گور خود چراغی بر فروز</p>
+    <br>
 
-  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/31/63ddb8cba92f28147f85fb686d13a6a7/kk.jpg" width="500px"/>
-</center>
+        <p>مرگ را بر خلق عزم جازمست
+        جمله را در خاک خفتن لازمست</p>
+        <br>
+    <p>Lorem, ipsum dolor sit <i> amet</i> <em> consectetur</em> adipisicing elit. Quo quae incidunt 
+        dolorem asperiores sapiente nisi eos sunt vero quasi deleniti!</p>
+   <ul >
+    <li> impedit libero aspernatur consectetur non, aut earum deserunt</li>
+    <li>  magnam saepe consequatur voluptatibus inventore voluptatum.</li>
+   </ul>    
+<ol start="2"> 
+   <li>Lorem, ipsum.</li>
+   <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</li>
+</ol>
 <br>
 <br>
 <br>
-<br>
-<center>
-  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/68/dfa3735dd8584f133bb0154f55b13bb4/nn.jpg" width="700px"/>
-</center>
-<br>
-<br>
-<center>
-  <a href="https://www.uplooder.net//files/515b450bef1eff7c4004cb290150d990/ab.mp3.html">
-<audio controls loop>
- <source src="C:\Users\RayaKar32244600\Desktop\fun\ab.mp3"
- type="audio/mpeg">
-</audio></a>
-</center>
+<dl>
+    <dd>hello</dd>
+    <dt>farzad</dt>
+</dl>
 <br>
 <br>
-<center>
-  <a href="https://www.uplooder.net//files/6e2786a07ceb7b25d38e3ef7cd45e66b/omid.mp4.html" target="_blank">omid.mp4</a>
-</video>
-</center>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<center>
-  <font size="+3">اگر فیلم باز نشد رویش ضربه بزنید و قسمتی سبز رنگ برایتان نمایش داده میشود و بر روی ان دانلود فایل ضربه بزنید و از فیلمتان لذت ببرید </font>
-</center>
+<a href="#3" title="قیووو">github</a>
 <br>
 <br>
 <br>
@@ -145,73 +52,101 @@
 <br>
 <br>
 <br>
-<center>
-  <font size="+3">اینجا هم جوانی های دایی امین مبینید که یکم شیطنت کرده </font>
-</center>
 <br>
 <br>
 <br>
 <br>
-<center>
-  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/49/73a45fab7128bdc34133cd724a67556e/pp.jpg" width="720px"/>
-</center>
-<br>
-<br>
-<br>
-<br>
-<center>
-  <font size="+2">مدیه تاله ی</font>
-</center>
-<br>
-<center>
-  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/48/fe79d770d21b987badaa599afccb269e/rr.jpg" width="660px"/>
-</center>
-<br>
-<br>
-<br>
-<br>
-<center>
-  <font size="+2">امید درحال عکس گرفتن برای زیدش</font>
-</center>
-<br>
-<br>
-<br>
-<center>
-<img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/50/5a07bc0f57fe925922e36c3f225d0c76/ss.jpg" width="650px"/>
-</center>
+<br>  
+<img src="adidas.png" alt="picture" title="adidas" usemap="#picturee">
+<map name="picturee">
+    <area shape="circle" coords="70,70,60" href="https://fa.wikipedia.org/wiki/%D8%A2%D8%AF%DB%8C%D8%AF%D8%A7%D8%B3" alt="">
+    <area shape="rect" coords="197,57,222,26" href="https://www.adidas.com/us/shoes" alt="">
+</map>
 <br>
 <br>
 <br>
 <br>
 <br>
-<center>
-  <audio controls="controls">
-  <source src="qqا.mp3"></audio>
-</center>
 <br>
 <br>
 <br>
-<br>
-<br>
-<center>
-  <font size="+3"> اوستا مرتضی ملقب به موتور</font>
-</center>
-<br>
-<br>
-<br>
-<br>
-<br>
-<center>
-<br>
-<br>
-<audio controls>
-<source src="ppp.mp3"></audio>
-<br>
-  <img alt="http://www.uplooder.net" src="https://www.uplooder.net/img/image/27/f71272f6782260c76bb38df789bb0ffa/jj.jpg" width="780px"/>
 <br>
 <br>
 <br>
 <hr>
-<video controls width="300px">
-<source src="ggg.mp4"></video>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1 id="2">Lorem2</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis.</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1 id="1">Lorem1</h1>
+<p>Lorem ipsum dolor sit amet consectetur
+ adipisicing elit. Modi fugit quis eligendi dolor
+ quidem officiis aliquid veritatis maxime corrupti exercitationem, fuga in similique. Veritatis obcaecati minima velit accusamus tempore 
+ enim quis deserunt suscipit? Esse sit et adipisci 
+ ipsam distinctio dignissimos.</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<strong><i id="3">Lorem3</i></strong>
+<br>
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores, opt
+    io. Adipisci, praesentium explicabo debitis aliquam itaque minus, tempore
+     delectus natus, a odit iste! Tenetur, dolor eum totam modi possimus sunt.</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+     <h1>Lorem4</h1>
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi
+     quidem vitae, accusamus magnam doloribus voluptatibus odio exercitationem!</p>
+</body>
+</html>
