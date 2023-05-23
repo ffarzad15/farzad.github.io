@@ -1,23 +1,4 @@
 
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>wonderful</title>
-    <link rel="stylesheet" href="style.css">
-    <body style="background-color:rgb(146, 168, 153) ;">
-    </body>
-    <style>
-        table , th , td{
-            padding-right:10px ;
-            padding-bottom:10px ;
-            padding-top:10px ;
-            padding-left:10px ;
-            border: 1px solid rgb(0, 0, 0);
-            border-style:hidden ;
-            background-color:rgba(226, 247, 232, 0.288) ;
-        }
-    </style>
-</head>
 
 <body><!-- 
     <picture>
@@ -175,6 +156,4 @@
 <br>
 <br>
 <br>
-     <h1>Lorem4</h1>
-     <p>Lorem <li> ipsum</li><q> dolor</q><b> sit</b> amet consectetur adipisicing elit. Nisi
-     quidem vitae, accusamus magnam doloribus voluptatibus odio exercitationem!</p>
+
