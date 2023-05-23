@@ -88,8 +88,8 @@
 <br>
 <br>
 <br>
-<br 
-<video width="400px" height="400px">
+<br>
+<video controls width="400px" height="400px">
 <source src="film.mp4" type="video.mp4">
 </video>
 <br>
