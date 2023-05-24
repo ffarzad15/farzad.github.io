@@ -89,7 +89,7 @@
 <br>
 <br>
 <br>
-<video controls width="400px" height="400px">
+<video controls autoplay width="400px" height="400px">
 <source src="film.mp4" type="video.mp4">
 </video>
 <br>
