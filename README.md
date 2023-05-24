@@ -8,15 +8,15 @@
 <body>
     <center>
   <h2>سلام دوست عزیز</h2>
-    </center>
+    
 <br>
 <br>
 <br>
-<audio controls loop>
+<audio autoplay>
    <source src="گوش نکن.mp3"> 
 </audio>
 <br>
- <q dir="rtl">خسته نباشید</q>
+ <q>خسته نباشید</q>
 <br>
 <br>
 <p style="color:rgba(14, 209, 102, 0.918) ;">صدای گوشیتون زیاد کنید و از اهنگ لذت ببرید </p>
