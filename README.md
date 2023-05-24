@@ -329,8 +329,19 @@
 <br>
 <br>
 <hr>
+<br>
+<hr>
+<i>فیلم</i>
 <video width="400px" height="400px" controls autoplay preload="auto">
   <source src="film.mp4" type="video/mp4">
+</video>
+<br>
+<br>
+<br>
+<hr>
+<q>ضریه کایتن گری</q>
+<video width="400px" height="400px" controls autoplay>
+  <source src="کایتن گری.mp4">
 </video>
 </body>
 </html>
