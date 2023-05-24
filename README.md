@@ -12,7 +12,7 @@
 <br>
 <br>
 <br>
-<audio autoplay>
+<audio controls loop>
    <source src="گوش نکن.mp3"> 
 </audio>
 <br>
