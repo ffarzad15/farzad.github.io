@@ -19,6 +19,18 @@
     </style>
 </head>
 <body>
+<i>فیلم</i>
+<video width="400px" height="400px" controls autoplay preload="auto">
+  <source src="film.mp4" type="video/mp4">
+</video>
+<br>
+<br>
+<br>
+<hr>
+<q>ضریه کایتن گری</q>
+<video width="400px" height="400px" controls autoplay>
+  <source src="کایتن گری.mp4">
+</video>
    <picture>
         <source srcset="bb.jpg" media="(max-whdth: 300px) and (orientation: landscape)">
         <source srcset="go.jpeg" media="(min-whdth: 250px)">
@@ -310,7 +322,8 @@
 <br>
 <br>
 <div>
-<textarea name="comment" cols="30" rows="10" placeholder="hello" wrap="soft"></textarea>
+<textarea name="comment" cols="30" rows="10" placeholder="hello" wrap="soft">
+</textarea>
 <button type="submit">submit</button>
 </div>
 <span style='font-size:100px;'>&#128583; &#128520;</span>
@@ -331,17 +344,5 @@
 <hr>
 <br>
 <hr>
-<i>فیلم</i>
-<video width="400px" height="400px" controls autoplay preload="auto">
-  <source src="film.mp4" type="video/mp4">
-</video>
-<br>
-<br>
-<br>
-<hr>
-<q>ضریه کایتن گری</q>
-<video width="400px" height="400px" controls autoplay>
-  <source src="کایتن گری.mp4">
-</video>
 </body>
 </html>
